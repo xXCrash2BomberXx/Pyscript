@@ -18,6 +18,7 @@ a1.0 - Initial
 	&& == and
 	this == self
 
+
 a1.1 - Terminal Build
 
 a1.2 - List Indexing Fixes
