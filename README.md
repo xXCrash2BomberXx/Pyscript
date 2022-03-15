@@ -2,7 +2,7 @@
 A blend of all the major object-oriented languages put into python
 
 
-a1.0 - Initial
+a1.0 - Initial\n
 	Python with Braces -> {}
 	Increment and Decrement Operators
 	Do-While-Loops
